@@ -5,7 +5,7 @@ specifiers:
   '@nuxt/kit': 3.2.2
   '@nuxt/module-builder': 0.2.1
   '@nuxtjs/eslint-config-typescript': 12.0.0
-  '@sindresorhus/slugify': 2.2.0
+  '@sindresorhus/slugify': 2.2.1
   '@types/js-cookie': 3.0.3
   css-vars-ponyfill: 2.4.8
   eslint: 8.35.0
@@ -24,7 +24,7 @@ specifiers:
 
 dependencies:
   '@nuxt/kit': 3.2.2
-  '@sindresorhus/slugify': 2.2.0
+  '@sindresorhus/slugify': 2.2.1
   css-vars-ponyfill: 2.4.8
   js-cookie: 3.0.1
   string-replace-loader: 3.1.0_webpack@5.75.0
@@ -1370,8 +1370,8 @@ packages:
       rollup: 3.17.0
     dev: true
 
-  /@sindresorhus/slugify/2.2.0:
-    resolution: {integrity: sha512-9Vybc/qX8Kj6pxJaapjkFbiUJPk7MAkCh/GFCxIBnnsuYCFPIXKvnLidG8xlepht3i24L5XemUmGtrJ3UWrl6w==}
+  /@sindresorhus/slugify/2.2.1:
+    resolution: {integrity: sha512-MkngSCRZ8JdSOCHRaYd+D01XhvU3Hjy6MGl06zhOk614hp9EOAp5gIkBeQg7wtmxpitU6eAL4kdiRMcJa2dlrw==}
     engines: {node: '>=12'}
     dependencies:
       '@sindresorhus/transliterate': 1.6.0
