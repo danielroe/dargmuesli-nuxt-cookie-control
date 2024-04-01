@@ -7,7 +7,7 @@ specifiers:
   '@nuxtjs/eslint-config-typescript': 12.0.0
   '@sindresorhus/slugify': 2.2.0
   '@types/js-cookie': 3.0.3
-  css-vars-ponyfill: 2.4.8
+  css-vars-ponyfill: 2.4.9
   eslint: 8.35.0
   eslint-config-prettier: 8.6.0
   eslint-plugin-prettier: 4.2.1
@@ -25,7 +25,7 @@ specifiers:
 dependencies:
   '@nuxt/kit': 3.2.2
   '@sindresorhus/slugify': 2.2.0
-  css-vars-ponyfill: 2.4.8
+  css-vars-ponyfill: 2.4.9
   js-cookie: 3.0.1
   string-replace-loader: 3.1.0_webpack@5.75.0
 
@@ -2554,8 +2554,8 @@ packages:
       source-map: 0.6.1
     dev: true
 
-  /css-vars-ponyfill/2.4.8:
-    resolution: {integrity: sha512-4/j4AX4htytYHWyHVZ2BFQ+NoCGZEcOH2h4/2mmgE4SkrFg4Xq6tGYR77DtvvUIDsaXuJN+sj41bbgauA0Gfmg==}
+  /css-vars-ponyfill/2.4.9:
+    resolution: {integrity: sha512-aZyLue5bdiGVNCiCclNjo123D8I7kyoYNUaAvz+H1JalX1ye4Ilz7jNRRH5YbM+dYD6ucejiydGwk7lol/GCXQ==}
     dependencies:
       balanced-match: 1.0.2
       get-css-data: 2.1.0
