@@ -39,14 +39,14 @@
     "@nuxt/kit": "3.2.2",
     "@sindresorhus/slugify": "2.2.0",
     "css-vars-ponyfill": "2.4.8",
-    "js-cookie": "3.0.1",
+    "js-cookie": "3.0.5",
     "string-replace-loader": "3.1.0"
   },
   "devDependencies": {
     "@dargmuesli/nuxt-cookie-control": "link:.",
     "@nuxt/module-builder": "0.2.1",
     "@nuxtjs/eslint-config-typescript": "12.0.0",
-    "@types/js-cookie": "3.0.3",
+    "@types/js-cookie": "3.0.6",
     "eslint": "8.35.0",
     "eslint-config-prettier": "8.6.0",
     "eslint-plugin-prettier": "4.2.1",
